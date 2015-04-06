@@ -1,4 +1,4 @@
-//Change values in lines 5-7 and 98-101!
+//Change values in lines 6-8 and 98-101!
 
 //WiFi Settings
 
